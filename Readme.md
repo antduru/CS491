@@ -1,5 +1,10 @@
 CS 491 Project Website
 
+PAPYRUS
+Ant Duru
+Atay Kaylar
+Enver Yiğitler
+
 
 <a href="https://github.com/antduru/CS491/raw/main/project_spec_ant_atay_enver%20(2).pdf" style="color:blue" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">  Project Specification Report
 </a>
