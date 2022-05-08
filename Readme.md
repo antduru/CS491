@@ -15,3 +15,6 @@ Enver Yiğitler 21702285
 
 <a href="https://github.com/antduru/CS491/raw/main/High-Level%20Design%20Report.pdf" style="color:blue" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">  High-Level Design Report 
 </a>
+
+<a href="https://github.com/antduru/CS491/raw/main/Low-Level%20Design%20Report.pdf" style="color:blue" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">  Low-Level Design Report 
+</a>
