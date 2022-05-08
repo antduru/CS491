@@ -1,4 +1,4 @@
-CS 491 Project Website
+CS 491/492 Project Website
 
 PAPYRUS
 Ant Duru 21704108
